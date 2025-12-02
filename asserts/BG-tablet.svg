@@ -1,0 +1,38 @@
+<svg width="768" height="4267" viewBox="0 0 768 4267" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g opacity="0.5">
+<g filter="url(#filter0_f_582_659)">
+<circle cx="100.525" cy="74" r="250" fill="#394A57"/>
+</g>
+<g filter="url(#filter1_f_582_659)">
+<circle cx="904.215" cy="1174.26" r="250" fill="#50DCAA"/>
+</g>
+<g filter="url(#filter2_f_582_659)">
+<circle cx="-100" cy="2564.03" r="250" fill="#D9D9D9"/>
+</g>
+<g filter="url(#filter3_f_582_659)">
+<circle cx="920.502" cy="3617.26" r="250" fill="#D9D9D9"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_f_582_659" x="-649.475" y="-676" width="1500" height="1500" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="250" result="effect1_foregroundBlur_582_659"/>
+</filter>
+<filter id="filter1_f_582_659" x="154.215" y="424.263" width="1500" height="1500" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="250" result="effect1_foregroundBlur_582_659"/>
+</filter>
+<filter id="filter2_f_582_659" x="-850" y="1814.03" width="1500" height="1500" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="250" result="effect1_foregroundBlur_582_659"/>
+</filter>
+<filter id="filter3_f_582_659" x="170.502" y="2867.26" width="1500" height="1500" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="250" result="effect1_foregroundBlur_582_659"/>
+</filter>
+</defs>
+</svg>
