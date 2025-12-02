@@ -218,7 +218,7 @@ header{
                     padding: 50px 30px 30px 30px;
                     display: flex;
                     flex-direction: column;
-                    gap: 109px;
+                    gap: 103px;
                     border: 1px solid #FFFFFF;
                     border-radius: 20px;
                     background-color: #FFFFFF0D;
@@ -464,13 +464,13 @@ footer{
     height: 355px;
     display: flex;
     justify-content: center;
-    align-items: center;
     .wrap-ft{
         display: flex;
         flex-direction: column;
         gap: 20px;
         width: 100%;
         max-width: 1200px;
+        margin-top: 50px;
         .logo-footer{
             height: 67px;
             width: auto;
